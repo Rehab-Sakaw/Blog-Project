@@ -51,6 +51,7 @@ namespace Blog.Controllers
             {
                 throw e;
                 //return BadRequest("Not Falid Comment");
+
             }
         }
     }
