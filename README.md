@@ -12,5 +12,6 @@ class AuthProvider. then i create a class to implement OAuthAuthorizationServerP
 This model validates the user from a database. 
 #step 6 : then i created an angular 7 Angular application for UI then i create a new service for calling the Web API.
 #step 7 : defining the API URL for sending a request to the server to get token. and create guard service to implement can activate function
-#step 8 : create a login component then i injected it with the service 
+#step 8 : create a login component then i injected it with the service
+in login form you can use (Rehab) as username and (123456) for password 
 #step 9 : i create a couple of component to represent the data from api using view model to map the data from and to api
